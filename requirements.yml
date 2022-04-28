@@ -1,0 +1,5 @@
+---
+
+- src: tip_togo.exam_docker_role
+  path: roles
+  name: docker
